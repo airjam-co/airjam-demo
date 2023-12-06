@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.calendar-container {
+  color: #000 !important;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  margin-bottom: 30px;
+  margin-top: -30px;
+}
+
+.modal-dialog {
+  color: #000 !important;
+}
+
+.modal-dialog svg {
+  display: inline;
+}

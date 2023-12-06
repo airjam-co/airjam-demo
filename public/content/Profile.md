@@ -1,19 +1,19 @@
 ## Site Name
-- Portable Portfolio
+- Henry Lee
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Henry. 
+- Let's talk.
+- Use the interface below to book a time with me.
 
 ## About
 Write your "About" section here.
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+Feel free to reach out to me using any of the medium below.
+- LinkedIn: https://www.linkedin.com/in/minjaelee/
+- GitHub: https://github.com/airjam-co
+- Email: henry@airjam.co
 
 ## Logo
 - EB
