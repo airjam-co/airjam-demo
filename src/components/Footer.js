@@ -18,7 +18,7 @@ export default function Footer() {
         py={4}
         align="center"
       >
-        <Text>© 2024 Henry Lee. All rights reserved</Text>
+        <Text>© 2024 Creative Construct, Inc. All rights reserved</Text>
       </Container>
     </Box>
   );

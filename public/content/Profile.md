@@ -1,10 +1,10 @@
 ## Site Name
-- Henry Lee
+- AirJam - Talk to a sales expert
 
 ## Header
-- Hi, my name is Henry. 
-- Let's talk.
-- Use the interface below to book a time with me.
+- Build your app 10x faster with AirJam.
+- Find out how.
+- Explore what's possible - Book your session with us today.
 
 ## About
 Write your "About" section here.
