@@ -9,6 +9,7 @@ import ProfileArray from "./ProfileArray";
 import { ViewType, Calendar } from '@airjam/react-calendar';
 
 import '@airjam/react-calendar/dist/style.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Header({ color }) {
   const profile = ProfileArray();
