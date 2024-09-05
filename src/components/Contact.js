@@ -4,7 +4,7 @@ import {
   Box,
 } from "@chakra-ui/react";
 
-export default function Contact({ }) {
+export default function Contact() {
   return (
     <>
       <Container maxW={"3xl"} id="contact">
